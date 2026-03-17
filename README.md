@@ -3,8 +3,6 @@
 🚀 I’m a passionate developer focused on building efficient, scalable, and user-friendly applications.  
 I enjoy solving problems and continuously improving my skills through hands-on learning.  
 
----
-
 ### 🔭 Currently Working On  
 - Developing modern web applications  
 - Strengthening problem-solving skills  
