@@ -15,12 +15,6 @@ I enjoy solving problems and continuously improving my skills through hands-on l
 - Data Structures & Algorithms  
 - Advanced Java & modern web technologies  
 
----
-
-### 🛠️ Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,github" />
-</p>
 
 ---
 
